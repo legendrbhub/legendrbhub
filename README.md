@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🏅 Certifications
+
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/daf9850b-b7d7-4201-927e-5b9e3b6b5556/public_url)
+[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/81b041d6-6e49-4837-bb04-ed44985b17e4/public_url)
+[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/cd48067d-dd09-4639-a886-8b7eb6c42e44/public_url)
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](https://www.credly.com/badges/519494bd-22d4-440a-8603-3931a1aa8dbb/public_url)
+
+---
